@@ -1,0 +1,285 @@
+:root{
+    --primary-color: #34e0a1;
+}
+.imghd{
+    object-fit: cover;
+    height: 100%;
+}
+.bdht {
+   
+    position: relative;
+    
+   
+}
+.bdhtt {
+    border: black solid 1px;
+    border-radius: 10px;
+    position: relative;
+    
+   
+}
+
+
+.iciht {
+    position: absolute;
+    right: 1px;
+}
+.outwhto {
+    position: relative;
+    margin-top: 10px;
+}
+.imgwhto {
+    width: 100%;
+}
+.whto {
+    left: 20%;
+    width: 60%;
+    position: absolute;
+    top: 30%;
+}
+.imgc {
+    width: 100%;
+}
+
+.help {
+    margin-top: 10px;
+    background-color: #f2b203;
+    margin: 0;
+    margin-top: 40px;
+}
+.outdoors {
+    position: relative;
+}
+.imgoutd {
+    height: 200px;
+    width: 100%;
+}
+.inoutd {
+    position: absolute;
+    bottom: 7px;
+    left: 20px;
+    color: aliceblue;
+    font-size: 30px;
+}
+.outht {
+    background-color: antiquewhite;
+    height: 200px;
+    margin: 0;
+}
+.htl {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+.outgool {
+    margin-top: 20px;
+    position: relative;
+}
+.gool {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+.outgear {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    
+
+}
+.gear{
+    color: white;
+    font-size: 3rem ;
+}
+.tng {
+    background-color: #faf1ed;
+    margin-top: 20px;
+    margin-top: 50px;
+}
+.outod {
+    background-color: #fff;
+    padding: 10px;
+}
+.odih {
+    width: 100%;
+    object-fit: cover;
+    height: 250px;
+}
+.mnbc {
+    position: relative;
+}
+.ylst {
+    height: 250px;
+    width: 100%;
+}
+.mbnc {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: aliceblue;
+    font-size: 30px;
+}
+.amnk {
+    margin-top: 20px;
+}
+.winter {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+.ghj {
+    background-color: #faf1ed;
+}
+.imgft {
+    width: 60px;
+    height: 60px;
+}
+.ftic {
+    display: flex;
+    justify-content: end;
+}
+.outic {
+    margin: 5px;
+}
+.icdr{
+    display: flex;
+    
+    border-radius: 20px;
+    height: 40px;
+    min-width: 40px;
+    padding: 6px;
+}
+.hjk{
+    height:40px ;
+    width:40px ;
+    padding: 13px;
+    margin-right: 10px;
+    font-size: 20px;
+
+}
+.icdrd{
+    display: flex;
+    
+    border-radius: 20px;
+    height: 40px;
+    min-width: 40px;
+    padding: 6px;
+    width: 100px;
+}
+.kbnt{
+   padding: 20px;
+   position: sticky;
+    top: 1px;
+    z-index: 10;
+   
+}
+.waw{
+    font-size: 20px;
+    font-weight: 500;
+}
+.hntk{
+    padding-left:5px ;
+    padding-top:5px ;
+    padding-right:5px ;
+    padding-bottom:25px ;
+}
+.yuio{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 0;
+    margin-right: 0;
+}
+.bth4{
+    text-align: center;
+    position: absolute;
+    top: 20%;
+}
+.amnt{
+    position: relative;
+}
+.mnt6{
+    position: absolute;
+    border: solid 1px black;
+    width: 200px;
+    right: 35%;
+    background-color: #fff;
+    border-radius: 50px;
+}
+.ctn3{
+    margin-top: 30px;
+}
+.circle{
+    color: green;
+    font-size: 12px;
+}
+.htf4{
+ display: flex;
+}
+.kjgi{
+    font-size: 25px;
+
+}
+.kgi5{
+    margin-bottom: 20px;
+    
+}
+.gkiu6{
+    font-weight: 600;
+    font-size: 16px;
+}
+.iut8{
+    width: 25px;
+    height: 25px;
+    border: black solid 1px;
+    border-radius: 100px;
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    background-color: #faf1ed;
+
+
+}
+.tgt5{
+    margin: 2px;
+}
+.thus7{
+    position: relative;
+}
+.jhi8{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.khr4{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.nhtr{
+    margin-left: 10px;
+    border: black solid 1px;
+    width: 90px;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    
+    height: 30px;
+}
+.nhtr9{
+    margin-left: 10px;
+    border:white solid 1px;
+    width: 90px;
+    border-radius: 50px;
+    background-color:white;
+    color:black;
+    
+    height: 30px;
+}
+.tuys{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.hyft9{
+    height: 50px;
+}
+.hthy{
+    margin-top: 50px;
+}
